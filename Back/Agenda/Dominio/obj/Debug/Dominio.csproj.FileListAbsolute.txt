@@ -1,0 +1,12 @@
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\bin\Debug\Dominio.dll
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\bin\Debug\Dominio.pdb
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.dll
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.pdb
+C:\Users\kaique.oliveira\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\bin\Debug\Dominio.dll
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\bin\Debug\Dominio.pdb
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.dll
+C:\Users\kaiqu\Desktop\Teste\Agenda\Dominio\obj\Debug\Dominio.pdb
